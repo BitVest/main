@@ -37,3 +37,5 @@ Company page,
 user page
 company index
 splash page
+
+[Wire Frame] (https://github.com/BitVest/main/blob/master/IMG_2255.JPG)
